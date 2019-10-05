@@ -349,3 +349,10 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.user-details {
+    text-align: center;
+    margin: 5px auto;
+    h1 {
+      font-weight: 400;
+    }
+  }
